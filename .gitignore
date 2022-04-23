@@ -1,0 +1,6 @@
+# jupyter
+.ipynb_checkpoints/
+# vscode
+.vscode/
+# python
+__pycache__/
